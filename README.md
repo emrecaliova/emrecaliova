@@ -41,6 +41,6 @@ Currently, I'm developing open-source tools for hydrological analysis.
 ---
 
 ### 📫 Get in touch
-
-- [LinkedIn](https://www.linkedin.com/in/caliova/)  
-- 📧 caliova94@gmail.com
+ 
+- 🔗 [LinkedIn](https://www.linkedin.com/in/emrecaliova)
+- 📧 [Mail](mailto:caliova94@gmail.com) 
