@@ -28,9 +28,7 @@ Currently, I'm developing open-source tools for hydrological analysis.
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white&style=flat)  
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat)  
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat)  
-![Qt](https://img.shields.io/badge/-Qt-41CD52?logo=qt&logoColor=white&style=flat)  
-![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=flat)  
-![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&style=flat)  
+![Qt](https://img.shields.io/badge/-Qt-41CD52?logo=qt&logoColor=white&style=flat)   
 
 ---
 
